@@ -1,4 +1,4 @@
-# digital_api_scripts
+# digitalocean_api_example_scripts
 examples of short usage of digitalocean api
 
 before run you should:
